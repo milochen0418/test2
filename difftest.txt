@@ -1,5 +1,3 @@
 Diff1
-<<<<<<< HEAD
-=======
 DiffTest 2
->>>>>>> parent of 91feb86... DiffTest 3
+DiffTest 3
