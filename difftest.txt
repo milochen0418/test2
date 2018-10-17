@@ -1,3 +1,2 @@
 Diff1
 DiffTest 2
-DiffTest 3
